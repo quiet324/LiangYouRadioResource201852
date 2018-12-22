@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180922",
-		"title": "从布道到培训：委身的平安（主持：卢文、周虹）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180922.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201838/ds20180922/ds/ds180922.mp3",
-		"id": 46180922
-	},
-	{
 		"time": "20180923",
 		"title": "良院讲台：同一心志（腓1:27-2:4；讲员：林诚牧师）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180923.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201851/ds20181222/ds/ds181222.mp3",
 		"id": 46181222
+	},
+	{
+		"time": "20181223",
+		"title": "良院讲台：善行与赏赐（太6:1-8、16-18；讲员：吴家恩老师）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181223.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/ds20181223/ds/ds181223.mp3",
+		"id": 46181223
 	}
 ]
