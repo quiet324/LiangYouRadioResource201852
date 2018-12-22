@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180922",
-		"title": "三种收割与四种宣告（1）（启14:1-5）",
-		"downUrl": "http://txly2.net/ly/audio/2018/th/th180922.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 32,
-		"artistName": "真理之光",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201838/th20180922/th/th180922.mp3",
-		"id": 32180922
-	},
-	{
 		"time": "20180923",
 		"title": "耶路撒冷复兴大会（2）（尼8:5-8）",
 		"downUrl": "http://txly2.net/ly/audio/2018/th/th180923.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真理之光",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201851/th20181222/th/th181222.mp3",
 		"id": 32181222
+	},
+	{
+		"time": "20181223",
+		"title": "耶路撒冷城内外居民的分配（1）（尼11:1-9）",
+		"downUrl": "http://txly2.net/ly/audio/2018/th/th181223.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 32,
+		"artistName": "真理之光",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/th20181223/th/th181223.mp3",
+		"id": 32181223
 	}
 ]
