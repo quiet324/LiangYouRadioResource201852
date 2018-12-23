@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180922",
-		"title": "圣经好好听：一对好朋友",
-		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc180922.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 17,
-		"artistName": "爆米花",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201838/pc20180922/pc/pc180922.mp3",
-		"id": 17180922
-	},
-	{
 		"time": "20180924",
 		"title": "你来品品理：玩具镇危机",
 		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc180924.mp3",
@@ -867,5 +856,16 @@
 		"artistName": "爆米花",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201851/pc20181222/pc/pc181222.mp3",
 		"id": 17181222
+	},
+	{
+		"time": "20181224",
+		"title": "你来品品理：小飞马的疑惑（上）",
+		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc181224.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 17,
+		"artistName": "爆米花",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/pc20181224/pc/pc181224.mp3",
+		"id": 17181224
 	}
 ]
