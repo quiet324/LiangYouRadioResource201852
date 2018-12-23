@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180921",
-		"title": "灵命进深系列：得胜的生活奉献（2）",
-		"downUrl": "http://txly2.net/ly/audio/2018/pb/pb180921.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 44,
-		"artistName": "接棒人",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201838/pb20180921/pb/pb180921.mp3",
-		"id": 44180921
-	},
-	{
 		"time": "20180924",
 		"title": "灵命进深系列：得胜的生活奉献（3）",
 		"downUrl": "http://txly2.net/ly/audio/2018/pb/pb180924.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "接棒人",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201851/pb20181221/pb/pb181221.mp3",
 		"id": 44181221
+	},
+	{
+		"time": "20181224",
+		"title": "怎样作传道人：释经的原则（下）",
+		"downUrl": "http://txly2.net/ly/audio/2018/pb/pb181224.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 44,
+		"artistName": "接棒人",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/pb20181224/pb/pb181224.mp3",
+		"id": 44181224
 	}
 ]
