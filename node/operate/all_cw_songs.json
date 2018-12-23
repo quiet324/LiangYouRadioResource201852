@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180921",
-		"title": "赞美旋律：巴赫b小调弥撒曲之《荣耀颂》（前段）",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180921.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201838/cw20180921/cw/cw180921.mp3",
-		"id": 51180921
-	},
-	{
 		"time": "20180924",
 		"title": "生命之歌：博乐克《日落之那边》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180924.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201851/cw20181221/cw/cw181221.mp3",
 		"id": 51181221
+	},
+	{
+		"time": "20181224",
+		"title": "生命之歌：田景福《一轮明月》（神子已生伯利恒）、林声本《圣诞感恩歌》",
+		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181224.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/cw20181224/cw/cw181224.mp3",
+		"id": 51181224
 	}
 ]
