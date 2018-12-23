@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180923",
-		"title": "福音自由——加拉太书（22）加拉太书5:16-21（讲员：李重恩）",
-		"downUrl": "http://txly2.net/ly/audio/2018/be/be180923.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 36,
-		"artistName": "真道分解",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201839/be20180923/be/be180923.mp3",
-		"id": 36180923
-	},
-	{
 		"time": "20180924",
 		"title": "福音自由——加拉太书（23）加拉太书5:22-26（讲员：李重恩）",
 		"downUrl": "http://txly2.net/ly/audio/2018/be/be180924.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真道分解",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/be20181223/be/be181223.mp3",
 		"id": 36181223
+	},
+	{
+		"time": "20181224",
+		"title": "镜像为鉴——圣经人物特辑（5）迦勒——雄心（讲员：姚谦、林可徽）",
+		"downUrl": "http://txly2.net/ly/audio/2018/be/be181224.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 36,
+		"artistName": "真道分解",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/be20181224/be/be181224.mp3",
+		"id": 36181224
 	}
 ]
