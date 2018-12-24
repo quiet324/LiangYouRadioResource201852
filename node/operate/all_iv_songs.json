@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180924",
-		"title": "约瑟──正直与宽恕系列：暮年之光（2）",
-		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv180924.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 42,
-		"artistName": "生活之光",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201839/iv20180924/iv/iv180924.mp3",
-		"id": 42180924
-	},
-	{
 		"time": "20180925",
 		"title": "'乐捐系列：需要回到充满喜乐的捐赠（1）",
 		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv180925.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "生活之光",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/iv20181224/iv/iv181224.mp3",
 		"id": 42181224
+	},
+	{
+		"time": "20181225",
+		"title": "神圣的爱与恩典：基督全新的恩典（1）",
+		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv181225.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 42,
+		"artistName": "生活之光",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/iv20181225/iv/iv181225.mp3",
+		"id": 42181225
 	}
 ]
