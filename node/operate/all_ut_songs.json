@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180924",
-		"title": "情感交流站：珍惜今天",
-		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut180924.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 18,
-		"artistName": "我们的时间",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201839/ut20180924/ut/ut180924.mp3",
-		"id": 18180924
-	},
-	{
 		"time": "20180925",
 		"title": "为神建立家室：希望计划",
 		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut180925.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "我们的时间",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/ut20181224/ut/ut181224.mp3",
 		"id": 18181224
+	},
+	{
+		"time": "20181225",
+		"title": "为神建立家室：神是爱",
+		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut181225.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 18,
+		"artistName": "我们的时间",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/ut20181225/ut/ut181225.mp3",
+		"id": 18181225
 	}
 ]
