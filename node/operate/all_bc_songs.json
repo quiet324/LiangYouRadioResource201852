@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180924",
-		"title": "信心日引：被律法击打（加3:19）；俗世圣徒：第二章、名字-3；第三章、工作-1",
-		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180924.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 10,
-		"artistName": "书香园地",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201839/bc20180924/bc/bc180924.mp3",
-		"id": 10180924
-	},
-	{
 		"time": "20180925",
 		"title": "信心日引：世界的罪（约1:29）；俗世圣徒：第三章、工作-2",
 		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180925.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "书香园地",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/bc20181224/bc/bc181224.mp3",
 		"id": 10181224
+	},
+	{
+		"time": "20181225",
+		"title": "信心日引：祂将祂的独生子赐给我们（约3:16）；做基督的管家：第六章、做金钱的管家-5",
+		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181225.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 10,
+		"artistName": "书香园地",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/bc20181225/bc/bc181225.mp3",
+		"id": 10181225
 	}
 ]
