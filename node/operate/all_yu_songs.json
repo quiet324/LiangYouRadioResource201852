@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180924",
-		"title": "绝妙一周乐：我们需要好消息",
-		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu180924.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 7,
-		"artistName": "绝妙当家",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201839/yu20180924/yu/yu180924.mp3",
-		"id": 7180924
-	},
-	{
 		"time": "20180925",
 		"title": "创译英文同乐会：箴15:6──义人的财宝",
 		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu180925.mp3",
@@ -1008,5 +997,16 @@
 		"artistName": "绝妙当家",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/yu20181224/yu/yu181224.mp3",
 		"id": 7181224
+	},
+	{
+		"time": "20181225",
+		"title": "创译英文同乐会：因有一婴孩为我们而生",
+		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu181225.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 7,
+		"artistName": "绝妙当家",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/yu20181225/yu/yu181225.mp3",
+		"id": 7181225
 	}
 ]
