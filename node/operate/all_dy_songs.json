@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180924",
-		"title": "好得无比，每一天：转失为得（诗119:67）；中秋国庆特辑（1）；我爱背金句：提后2:24-25",
-		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180924.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 24,
-		"artistName": "献上今天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201839/dy20180924/dy/dy180924.mp3",
-		"id": 24180924
-	},
-	{
 		"time": "20180925",
 		"title": "好得无比，每一天：祸患教室（罗8:28）；中秋国庆特辑（2）；我爱背金句：提后2:24-25",
 		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180925.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "献上今天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/dy20181224/dy/dy181224.mp3",
 		"id": 24181224
+	},
+	{
+		"time": "20181225",
+		"title": "好得无比，每一天：共庆圣诞（路2:14）；马太福音说书（32）；我爱背金句：提后1:7",
+		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy181225.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 24,
+		"artistName": "献上今天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/dy20181225/dy/dy181225.mp3",
+		"id": 24181225
 	}
 ]
