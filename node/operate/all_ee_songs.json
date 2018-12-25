@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180925",
-		"title": "绽放生命的光芒：达秘（3）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180925.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 29,
-		"artistName": "拥抱每一天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201839/ee20180925/ee/ee180925.mp3",
-		"id": 29180925
-	},
-	{
 		"time": "20180926",
 		"title": "智慧语录：爱在何处？诗情细语话人生：私人定制",
 		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180926.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "拥抱每一天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/ee20181225/ee/ee181225.mp3",
 		"id": 29181225
+	},
+	{
+		"time": "20181226",
+		"title": "智慧语录：今天我们继续航行；拥抱小语：基督徒为什么会犯罪？诗情细语话人生：惊喜圣诞节",
+		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee181226.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 29,
+		"artistName": "拥抱每一天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/ee20181226/ee/ee181226.mp3",
+		"id": 29181226
 	}
 ]
