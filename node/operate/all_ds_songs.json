@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180925",
-		"title": "教牧新视野：带着差传心进职场（主持：姚谦、林诚）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180925.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201839/ds20180925/ds/ds180925.mp3",
-		"id": 46180925
-	},
-	{
 		"time": "20180926",
 		"title": "晨曦交流站：卢文牧师和林诚牧师与你探讨听众所关注的教会问题",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180926.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/ds20181225/ds/ds181225.mp3",
 		"id": 46181225
+	},
+	{
+		"time": "20181226",
+		"title": "圣诞特辑：以信心迎难而上（3）上头来的警告（来4:14，6:20；讲员：张风老师）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181226.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/ds20181226/ds/ds181226.mp3",
+		"id": 46181226
 	}
 ]
