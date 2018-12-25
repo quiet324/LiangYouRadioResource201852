@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180925",
-		"title": "福音自由——加拉太书（24）加拉太书6:1-10（讲员：李重恩）",
-		"downUrl": "http://txly2.net/ly/audio/2018/be/be180925.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 36,
-		"artistName": "真道分解",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201839/be20180925/be/be180925.mp3",
-		"id": 36180925
-	},
-	{
 		"time": "20180926",
 		"title": "福音自由——加拉太书（25）加拉太书6:11-18（讲员：李重恩）",
 		"downUrl": "http://txly2.net/ly/audio/2018/be/be180926.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真道分解",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/be20181225/be/be181225.mp3",
 		"id": 36181225
+	},
+	{
+		"time": "20181226",
+		"title": "镜像为鉴——圣经人物特辑（7）大卫——醒觉（讲员：姚谦、林可徽）",
+		"downUrl": "http://txly2.net/ly/audio/2018/be/be181226.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 36,
+		"artistName": "真道分解",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/be20181226/be/be181226.mp3",
+		"id": 36181226
 	}
 ]
