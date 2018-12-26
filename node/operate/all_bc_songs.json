@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180926",
-		"title": "信心日引：撒但夺去神的话（可4:15）；俗世圣徒：第三章、工作-3；第四章、想像力-1",
-		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180926.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 10,
-		"artistName": "书香园地",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201839/bc20180926/bc/bc180926.mp3",
-		"id": 10180926
-	},
-	{
 		"time": "20180927",
 		"title": "信心日引：陷在泥泞中（罗9:16）；俗世圣徒：第四章、想像力-2",
 		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180927.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "书香园地",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/bc20181226/bc/bc181226.mp3",
 		"id": 10181226
+	},
+	{
+		"time": "20181227",
+		"title": "信心日引：死亡带来的得胜（来2:14）；做基督的管家：第七章、做恩赐的管家-2",
+		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181227.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 10,
+		"artistName": "书香园地",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/bc20181227/bc/bc181227.mp3",
+		"id": 10181227
 	}
 ]
