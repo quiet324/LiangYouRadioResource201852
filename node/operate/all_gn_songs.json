@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180926",
-		"title": "把握最迫切的时机（下）",
-		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180926.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 22,
-		"artistName": "现代人的希望",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201839/gn20180926/gn/gn180926.mp3",
-		"id": 22180926
-	},
-	{
 		"time": "20180927",
 		"title": "与神同在的生活",
 		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180927.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "现代人的希望",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/gn20181226/gn/gn181226.mp3",
 		"id": 22181226
+	},
+	{
+		"time": "20181227",
+		"title": "文学会客室：王祯和与《嫁妆一牛车》",
+		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn181227.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 22,
+		"artistName": "现代人的希望",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/gn20181227/gn/gn181227.mp3",
+		"id": 22181227
 	}
 ]
