@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180926",
-		"title": "灵命进深系列：与主同在（1）",
-		"downUrl": "http://txly2.net/ly/audio/2018/pb/pb180926.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 44,
-		"artistName": "接棒人",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201839/pb20180926/pb/pb180926.mp3",
-		"id": 44180926
-	},
-	{
 		"time": "20180927",
 		"title": "灵命进深系列：与主同在（2）",
 		"downUrl": "http://txly2.net/ly/audio/2018/pb/pb180927.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "接棒人",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/pb20181226/pb/pb181226.mp3",
 		"id": 44181226
+	},
+	{
+		"time": "20181227",
+		"title": "怎样作传道人：宣教的事奉",
+		"downUrl": "http://txly2.net/ly/audio/2018/pb/pb181227.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 44,
+		"artistName": "接棒人",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/pb20181227/pb/pb181227.mp3",
+		"id": 44181227
 	}
 ]
