@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180926",
-		"title": "心歌心曲： 劳伦‧戴格尔《你说》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180926.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201839/cw20180926/cw/cw180926.mp3",
-		"id": 51180926
-	},
-	{
 		"time": "20180927",
 		"title": "来吧赞美：《这世界非我家》、《何等恩典》、《你的爱总是不离不弃》、《这一条路》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180927.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/cw20181226/cw/cw181226.mp3",
 		"id": 51181226
+	},
+	{
+		"time": "20181227",
+		"title": "来吧赞美：《新酒》、《如鹰展翅上腾》、《竭诚献上》、《新的异象，新的方向》",
+		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181227.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/cw20181227/cw/cw181227.mp3",
+		"id": 51181227
 	}
 ]
