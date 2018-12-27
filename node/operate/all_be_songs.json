@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180927",
-		"title": "福音自由——加拉太书（26）自由（讲员：李重恩）",
-		"downUrl": "http://txly2.net/ly/audio/2018/be/be180927.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 36,
-		"artistName": "真道分解",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201839/be20180927/be/be180927.mp3",
-		"id": 36180927
-	},
-	{
 		"time": "20180928",
 		"title": "福音自由——加拉太书（27）神仆的权柄与责任（讲员：李重恩）",
 		"downUrl": "http://txly2.net/ly/audio/2018/be/be180928.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真道分解",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/be20181227/be/be181227.mp3",
 		"id": 36181227
+	},
+	{
+		"time": "20181228",
+		"title": "镜像为鉴——圣经人物特辑（9）约翰——默言（讲员：姚谦、林可徽）",
+		"downUrl": "http://txly2.net/ly/audio/2018/be/be181228.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 36,
+		"artistName": "真道分解",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/be20181228/be/be181228.mp3",
+		"id": 36181228
 	}
 ]
