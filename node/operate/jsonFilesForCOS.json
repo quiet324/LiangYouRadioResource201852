@@ -37120,5 +37120,11 @@
 	},
 	{
 		"fileName": "../operate/all_up20181228_songs.json"
+	},
+	{
+		"fileName": "../operate/all_hg20181228_songs.json"
+	},
+	{
+		"fileName": "../operate/all_wf20181228_songs.json"
 	}
 ]
