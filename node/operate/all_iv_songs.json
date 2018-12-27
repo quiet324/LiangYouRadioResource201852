@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180927",
-		"title": "'乐捐系列：需要回到充满喜乐的捐赠（3）",
-		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv180927.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 42,
-		"artistName": "生活之光",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201839/iv20180927/iv/iv180927.mp3",
-		"id": 42180927
-	},
-	{
 		"time": "20180928",
 		"title": "'乐捐系列：知足、慷慨与你（1）",
 		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv180928.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "生活之光",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/iv20181227/iv/iv181227.mp3",
 		"id": 42181227
+	},
+	{
+		"time": "20181228",
+		"title": "新年信息：跑毕全程的诀要（1）",
+		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv181228.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 42,
+		"artistName": "生活之光",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/iv20181228/iv/iv181228.mp3",
+		"id": 42181228
 	}
 ]
