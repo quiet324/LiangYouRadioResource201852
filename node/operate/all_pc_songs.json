@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180927",
-		"title": "巨人的秘密：春秋吴国军事家孙武（下）",
-		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc180927.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 17,
-		"artistName": "爆米花",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201839/pc20180927/pc/pc180927.mp3",
-		"id": 17180927
-	},
-	{
 		"time": "20180928",
 		"title": "皮小弟与妙阿姨：鼻子变小了",
 		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc180928.mp3",
@@ -867,5 +856,16 @@
 		"artistName": "爆米花",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/pc20181227/pc/pc181227.mp3",
 		"id": 17181227
+	},
+	{
+		"time": "20181228",
+		"title": "皮小弟与妙阿姨：国王与鞋匠（2）",
+		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc181228.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 17,
+		"artistName": "爆米花",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/pc20181228/pc/pc181228.mp3",
+		"id": 17181228
 	}
 ]
