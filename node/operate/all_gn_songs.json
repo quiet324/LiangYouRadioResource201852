@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180927",
-		"title": "与神同在的生活",
-		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180927.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 22,
-		"artistName": "现代人的希望",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201839/gn20180927/gn/gn180927.mp3",
-		"id": 22180927
-	},
-	{
 		"time": "20180928",
 		"title": "生命之歌",
 		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180928.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "现代人的希望",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/gn20181227/gn/gn181227.mp3",
 		"id": 22181227
+	},
+	{
+		"time": "20181228",
+		"title": "生命之歌",
+		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn181228.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 22,
+		"artistName": "现代人的希望",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/gn20181228/gn/gn181228.mp3",
+		"id": 22181228
 	}
 ]
