@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180927",
-		"title": "亲情健身房：夫妻同心互动健身（3）夫妻彼此信任，锻炼拉伸背部；与父母促膝谈：面对艰难挑战",
-		"downUrl": "http://txly2.net/ly/audio/2018/up/up180927.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 20,
-		"artistName": "亲情不断电",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201839/up20180927/up/up180927.mp3",
-		"id": 20180927
-	},
-	{
 		"time": "20180928",
 		"title": "教导儿女智财教育：第八课、无债生活：你的心能有多少负债空间",
 		"downUrl": "http://txly2.net/ly/audio/2018/up/up180928.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "亲情不断电",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/up20181227/up/up181227.mp3",
 		"id": 20181227
+	},
+	{
+		"time": "20181228",
+		"title": "2018薪火相传特别专辑（8）亲情中信仰传承的生命分享：新乐和家人",
+		"downUrl": "http://txly2.net/ly/audio/2018/up/up181228.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 20,
+		"artistName": "亲情不断电",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/up20181228/up/up181228.mp3",
+		"id": 20181228
 	}
 ]
