@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180927",
-		"title": "为神建立家室：火的试炼",
-		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut180927.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 18,
-		"artistName": "我们的时间",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201839/ut20180927/ut/ut180927.mp3",
-		"id": 18180927
-	},
-	{
 		"time": "20180928",
 		"title": "生活百花园：圣经介绍主耶稣",
 		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut180928.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "我们的时间",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/ut20181227/ut/ut181227.mp3",
 		"id": 18181227
+	},
+	{
+		"time": "20181228",
+		"title": "生活百花园：我们的身价",
+		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut181228.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 18,
+		"artistName": "我们的时间",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/ut20181228/ut/ut181228.mp3",
+		"id": 18181228
 	}
 ]
