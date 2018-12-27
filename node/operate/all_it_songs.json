@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180927",
-		"title": "当赞美时",
-		"downUrl": "http://txly2.net/ly/audio/2018/it/it180927.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 41,
-		"artistName": "与神同行",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201839/it20180927/it/it180927.mp3",
-		"id": 41180927
-	},
-	{
 		"time": "20180928",
 		"title": "逆境求存",
 		"downUrl": "http://txly2.net/ly/audio/2018/it/it180928.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "与神同行",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/it20181227/it/it181227.mp3",
 		"id": 41181227
+	},
+	{
+		"time": "20181228",
+		"title": "试探的挣扎（1）",
+		"downUrl": "http://txly2.net/ly/audio/2018/it/it181228.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 41,
+		"artistName": "与神同行",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/it20181228/it/it181228.mp3",
+		"id": 41181228
 	}
 ]
