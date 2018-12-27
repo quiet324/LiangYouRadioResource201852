@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180927",
-		"title": "黄昏下午茶：传统节日怎么过？──中秋、十一、元旦、春节，包括圣诞节……这些传统节日，基督徒能过吗？该怎么对待这些世俗的节日？",
-		"downUrl": "http://txly2.net/ly/audio/2018/im/im180927.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 14,
-		"artistName": "i关怀心磁场",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201839/im20180927/im/im180927.mp3",
-		"id": 14180927
-	},
-	{
 		"time": "20180928",
 		"title": "母子两地书：最好的教育是身体力行──作为母亲，她鼓励孩子多读书，她自己就先做一个爱读书的人；她教导孩子关心他人、关注世界上发生的事，她自己就投身在关怀辅导人的事工，并总是跟孩子交流她对世界的看法。这样身体力行的教育潜移默化地影响和熏陶着孩子的健康成长。",
 		"downUrl": "http://txly2.net/ly/audio/2018/im/im180928.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "i关怀心磁场",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/im20181227/im/im181227.mp3",
 		"id": 14181227
+	},
+	{
+		"time": "20181228",
+		"title": "圣诞特辑：爱的踪迹之“回归起初之爱”──眼泪、痛悔……情变带给她的只有愧疚痛苦，不料他的原谅与祝福竟让她获得反悔的勇气，纵然被无数不解的眼光包围，纵使被父亲追杀，她仍选择坚定地回归到起初的爱情……",
+		"downUrl": "http://txly2.net/ly/audio/2018/im/im181228.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 14,
+		"artistName": "i关怀心磁场",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/im20181228/im/im181228.mp3",
+		"id": 14181228
 	}
 ]
