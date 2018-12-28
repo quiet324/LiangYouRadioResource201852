@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180928",
-		"title": "从布道到培训：教会的建立与牧者的心（主持：卢文、杨天成）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180928.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201839/ds20180928/ds/ds180928.mp3",
-		"id": 46180928
-	},
-	{
 		"time": "20180929",
 		"title": "从布道到培训：爱心的问候与主里的团契（主持：卢文、杨天成）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180929.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/ds20181228/ds/ds181228.mp3",
 		"id": 46181228
+	},
+	{
+		"time": "20181229",
+		"title": "圣诞特辑：以信心迎难而上（6）信心的榜样（来11章；讲员：张风老师）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181229.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/ds20181229/ds/ds181229.mp3",
+		"id": 46181229
 	}
 ]
