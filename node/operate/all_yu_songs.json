@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180928",
-		"title": "绝妙小剧场：信封里的钥匙",
-		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu180928.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 7,
-		"artistName": "绝妙当家",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201839/yu20180928/yu/yu180928.mp3",
-		"id": 7180928
-	},
-	{
 		"time": "20180929",
 		"title": "动绝妙：24小时跑不停",
 		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu180929.mp3",
@@ -1008,5 +997,16 @@
 		"artistName": "绝妙当家",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/yu20181228/yu/yu181228.mp3",
 		"id": 7181228
+	},
+	{
+		"time": "20181229",
+		"title": "绝妙生活系列：时间分配（9）站在高温上",
+		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu181229.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 7,
+		"artistName": "绝妙当家",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/yu20181229/yu/yu181229.mp3",
+		"id": 7181229
 	}
 ]
