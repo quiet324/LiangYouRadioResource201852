@@ -37258,5 +37258,11 @@
 	},
 	{
 		"fileName": "../operate/all_be20181229_songs.json"
+	},
+	{
+		"fileName": "../operate/all_hw20181229_songs.json"
+	},
+	{
+		"fileName": "../operate/all_bs20181229_songs.json"
 	}
 ]
